@@ -67,3 +67,5 @@ End-point url : /api/iml
 }
 # Status:
 Ongoing
+![json](https://user-images.githubusercontent.com/76483737/177031000-e1cb8493-ffd3-411a-ae3a-c95400a985b4.png)
+
