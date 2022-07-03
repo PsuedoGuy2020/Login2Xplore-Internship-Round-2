@@ -4,6 +4,11 @@ JSONPOWER DB FORM
 This is a web based project on form validation and data storage in database using JsonPowerDb.
 ![Screenshot 2022-07-03 195305](https://user-images.githubusercontent.com/76483737/177044072-26731c09-9d45-49a9-8591-2bddfca56afc.png)
 ![Screenshot 2022-07-03 195423](https://user-images.githubusercontent.com/76483737/177044106-682cc28c-2bf8-425e-8f40-96c551f225ed.png)
+# About JsonPowerDB:
+1) JsonPowerDB is a Real-time, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. 
+2) It is a ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality.
+3) It supports and advocates for serverless and pluggable API development.
+4) It is a DBMS with built in web / application server and embedded caching makes the performance lightning fast.
 # Benefits Of Using JsonPowerDB:
 1) JsonPowerDB is a Database Server with Developer friendly REST API services.
 2) It has High Performance.
