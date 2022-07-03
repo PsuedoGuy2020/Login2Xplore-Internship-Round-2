@@ -65,7 +65,12 @@ End-point url : /api/iml
     "record": 1,
     "jsonStr" : {}
 }
-# Status:
-Ongoing
+# Screesnhots:
 ![json](https://user-images.githubusercontent.com/76483737/177031000-e1cb8493-ffd3-411a-ae3a-c95400a985b4.png)
+![Screenshot 2022-07-03 194818](https://user-images.githubusercontent.com/76483737/177043893-aec4fdff-c794-4705-bc98-d8b23b84a134.png)
+![Screenshot 2022-07-03 194940](https://user-images.githubusercontent.com/76483737/177043926-d787c199-d0ce-4b94-893f-ff6375f32860.png)
+![Screenshot 2022-07-03 195026](https://user-images.githubusercontent.com/76483737/177043954-d9841ef4-adb2-47a1-91e2-31e2a241f24e.png)
+![Screenshot 2022-07-03 195108](https://user-images.githubusercontent.com/76483737/177043988-af171014-e951-46bf-a0d3-c2c116d3ae35.png)
+![Screenshot 2022-07-03 195146](https://user-images.githubusercontent.com/76483737/177044016-6a074cc7-493f-436d-b527-77ec58610768.png)
+
 
