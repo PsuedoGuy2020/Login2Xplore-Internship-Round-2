@@ -77,5 +77,11 @@ End-point url : /api/iml
 ![Screenshot 2022-07-03 195026](https://user-images.githubusercontent.com/76483737/177043954-d9841ef4-adb2-47a1-91e2-31e2a241f24e.png)
 ![Screenshot 2022-07-03 195108](https://user-images.githubusercontent.com/76483737/177043988-af171014-e951-46bf-a0d3-c2c116d3ae35.png)
 ![Screenshot 2022-07-03 195146](https://user-images.githubusercontent.com/76483737/177044016-6a074cc7-493f-436d-b527-77ec58610768.png)
+# Steps To Run Project:
+1) Go to documents section in PC.
+2) Go to NetbeansProject folder.
+3) Clone this repository and unzip the folder project in above directory.
+4) Open Netbeans->dashboard.html>run file.
+
 
 
