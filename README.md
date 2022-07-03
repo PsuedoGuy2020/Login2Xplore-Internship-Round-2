@@ -81,7 +81,7 @@ End-point url : /api/iml
 1) Go to documents section in PC.
 2) Go to NetbeansProject folder.
 3) Clone this repository and unzip the folder project in above directory.
-4) Open Netbeans->dashboard.html>run file.
+4) Open Netbeans->dashboard.html->run file.
 
 
 
